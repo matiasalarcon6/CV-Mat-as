@@ -4,7 +4,7 @@ body {
   
   /* Hero Section */
   
-  #Hero-Section {
+  #Presentacion {
     background-image: url("../imagenes/imagen\ principal.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,7 +13,7 @@ body {
   
   /* Mis trabajos */
   #Mis-trabajos{
-    background-color: rgb(85, 80, 80);
+    background-color: rgb(90, 88, 88);
   }
   
   #Mis-trabajos .image-top {
