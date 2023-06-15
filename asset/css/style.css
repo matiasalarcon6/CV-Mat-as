@@ -10,6 +10,9 @@ body {
     background-size: cover;
     background-position: left;
   }
+  #Portafolio a{
+    color: aliceblue;
+  }
   
   /* Mis trabajos */
   #Mis-trabajos{
